@@ -3,4 +3,7 @@
 
 ## 基础技能学习笔记
 [java NIO学习笔记](https://github.com/mas-wang/mas-wang.github.io/issues/1)  
-[groovy学习笔记](https://github.com/mas-wang/mas-wang.github.io/issues/2)
+[groovy学习笔记](https://github.com/mas-wang/mas-wang.github.io/issues/2)  
+
+## 源码分析
+[inflate方法详解](https://github.com/mas-wang/mas-wang.github.io/issues/3)  
